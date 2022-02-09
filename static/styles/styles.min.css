@@ -503,6 +503,9 @@ section > h3 {
 .edu-mobile {
   display: none;
 }
+.edu-text {
+  font-size: 18px;
+}
 @media screen and (max-width: 800px) {
   .edu-mobile {
     display: block;
@@ -512,6 +515,12 @@ section > h3 {
   }
   .edu-img {
     width: 120px;
+  }
+  .edu-text {
+    font-size: 18px;
+  }
+  .edu-text2 {
+    font-size: 12px;
   }
 }
 

@@ -148,8 +148,8 @@ Vue.component("skills", {
                                         <ul> 
                                         <li>SciPy/NumPy/pandas</li>
                                         <li>scikit-learn</li>
-                                        <li>TensorFlow/Keras</li>
-                                        <li>PyTorch</li>
+                                        <li>TensorFlow/Keras/PyTorch</li>
+                                        <li>PySpark</li>
                                         <li>Matplotlib/Seaborn</li>
                                         <li>OpenCV/MediaPipe</li>
                                         <ul> 
