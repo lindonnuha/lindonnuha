@@ -10,7 +10,7 @@ Vue.component("about-me", {
                     {{i18next.t("aboutMeIntro2")}} <br>
                     {{i18next.t("aboutMeIntro3")}} <a href="#contact">{{i18next.t("belowText")}}!</a></p> 
                 </div>
-                <div class="col-md-6 text-center my-3"> <img src="static/images/Photo.jpg" class="about-me-image"></div>
+                <div class="col-md-6 text-center my-3"> <img src="static/images/Photo.JPG" class="about-me-image"></div>
             </div>
         </div>
     `,

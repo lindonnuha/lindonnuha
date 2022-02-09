@@ -59,7 +59,7 @@ Vue.component("tes", {
             onclick="projectRedirect('/projects/cfd-probe')">
           </div>
 
-          <div class="project-image project-img-3" style="background-image: url('../static/images/climbx.png')"
+          <div class="project-image project-img-3" style="background-image: url('../static/images/climbx.PNG')"
             onclick="projectRedirect('/projects/climbx')">
           </div>
         </div>

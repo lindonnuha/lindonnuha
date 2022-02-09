@@ -51,7 +51,7 @@ Vue.component("pos-soft", {
             onclick="projectRedirect('/projects/cfd-probe')">
           </div>
 
-          <div class="project-image project-img-2" style="background-image: url('../static/images/climbx.png')"
+          <div class="project-image project-img-2" style="background-image: url('../static/images/climbx.PNG')"
             onclick="projectRedirect('/projects/climbx')">
           </div>
 

@@ -16,7 +16,7 @@ Vue.component("projects", {
         <p>Some of the projects I have worked on</p>
         <div class="row">
             <div class="col-md"> <a href="projects/pos-soft.html">
-                    <div class="box-image"> <img src="static/images/pos_egzoni.png" alt="Retail Management Software">
+                    <div class="box-image"> <img src="static/images/POS_egzoni.png" alt="Retail Management Software">
                         <div class="box-name">
                             <p>Retail Management Software</p>
                         </div>
@@ -30,7 +30,7 @@ Vue.component("projects", {
                     </div>
                 </a></div>
             <div class="col-md"> <a href="projects/climbx.html">
-                <div class="box-image"> <img src="static/images/climbx.png" loading="lazy" alt="ClimbX">
+                <div class="box-image"> <img src="static/images/climbx.PNG" loading="lazy" alt="ClimbX">
                     <div class="box-name">
                         <p>ClimbX</p>
                     </div>
