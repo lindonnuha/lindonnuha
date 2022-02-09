@@ -11,10 +11,10 @@ Vue.component("pos-soft", {
         </ol>
         <div class="carousel-inner container">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="../static/images/projects/POS-1.png" alt="First slide">
+            <img class="d-block w-100" src="../static/images/projects/pos-1.png" alt="First slide">
           </div>
           <div class="carousel-item">
-          <img class="d-block w-100" src="../static/images/projects/POS-2.png" alt="Second slide">
+          <img class="d-block w-100" src="../static/images/projects/pos-2.png" alt="Second slide">
         </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -51,7 +51,7 @@ Vue.component("pos-soft", {
             onclick="projectRedirect('/projects/cfd-probe')">
           </div>
 
-          <div class="project-image project-img-2" style="background-image: url('../static/images/climbx.PNG')"
+          <div class="project-image project-img-2" style="background-image: url('../static/images/climbx.png')"
             onclick="projectRedirect('/projects/climbx')">
           </div>
 

@@ -12,7 +12,7 @@ Vue.component("climbx", {
         </ol>
         <div class="carousel-inner container">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="../static/images/projects/climbx-1.PNG" alt="First slide">
+            <img class="d-block w-100" src="../static/images/projects/climbx-1.png" alt="First slide">
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="../static/images/projects/climbx-2.jpg" alt="Second slide">
@@ -48,7 +48,7 @@ Vue.component("climbx", {
           <p class="text-primary">{{i18next.t("otherProjectsText")}}:</p>
         </div>
         <div class="imageContainer mt-5">
-          <div class="project-image project-img-1" style="background-image: url('../static/images/POS_egzoni.png')"
+          <div class="project-image project-img-1" style="background-image: url('../static/images/pos_egzoni.png')"
             onclick="projectRedirect('/projects/pos-soft')">
           </div>
 

@@ -68,7 +68,7 @@ Vue.component("cfd-probe", {
           <p class="text-primary">{{i18next.t("otherProjectsText")}}:</p>
         </div>
         <div class="imageContainer mt-5">
-          <div class="project-image project-img-1" style="background-image: url('../static/images/POS_egzoni.png')"
+          <div class="project-image project-img-1" style="background-image: url('../static/images/pos_egzoni.png')"
             onclick="projectRedirect('/projects/pos-soft')">
           </div>
 

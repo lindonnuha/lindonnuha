@@ -106,11 +106,11 @@ Vue.component("sorting", {
     </div>
     <p class="text-primary container mt-0">{{i18next.t("otherProjectsText")}}:</p>
     <div class="imageContainer mb-5 mt-4">
-      <div class="project-image project-img-1" style="background-image: url('../static/images/POS_egzoni.png')"
+      <div class="project-image project-img-1" style="background-image: url('../static/images/pos_egzoni.png')"
         onclick="projectRedirect('/projects/pos-soft')">
       </div>
 
-      <div class="project-image project-img-2" style="background-image: url('../static/images/climbx.PNG')"
+      <div class="project-image project-img-2" style="background-image: url('../static/images/climbx.png')"
         onclick="projectRedirect('/projects/climbx')">
       </div>
 
