@@ -1,0 +1,43 @@
+#showCaseBackgroundLine {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 90vw;
+  border: 0;
+  height: 3px;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    to right,
+    rgb(143 205 185 / 0%),
+    rgb(170 231 244 / 75%),
+    rgba(0, 0, 0, 0)
+  );
+}
+.imageContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  perspective: 600px;
+}
+.project-image {
+  width: 200px;
+  transition: all 0.72s;
+  cursor: pointer;
+  border-radius: 6px;
+  width: 270px;
+  height: 180px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  perspective: 500px;
+}
+.project-img-1 {
+  transform: rotateY(42deg);
+}
+.project-img-2 {
+  transform: translateZ(-70px);
+}
+.project-img-3 {
+  transform: rotateY(-42deg);
+}
