@@ -42,7 +42,7 @@ Vue.component("pos-soft", {
           <ul class="list-group">
             <li class="list-group-item bg-transparent"><strong>Python</strong> - Handle the software logic/functionality</li>
             <li class="list-group-item bg-transparent"><strong>Qt</strong> - Build the GUI (Graphical User Interface)</li>
-            <li class="list-group-item bg-transparent"><strong>SQLite</strong> - Manage the database</li>
+            <li class="list-group-item bg-transparent"><strong>MySQL</strong> - Manage the database</li>
           </ul>
           <p class="text-primary">{{i18next.t("otherProjectsText")}}:</p>
         </div>
